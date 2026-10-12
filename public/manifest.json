@@ -1,0 +1,16 @@
+{
+  "name": "TERRASPLAT",
+  "short_name": "TERRASPLAT",
+  "description": "Observability-aware single-pass drone video to georeferenced 3D models. SIH 2026 PS 26158.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090b0a",
+  "theme_color": "#090b0a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
